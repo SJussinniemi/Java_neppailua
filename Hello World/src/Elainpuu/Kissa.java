@@ -1,4 +1,4 @@
-/*
+﻿/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -16,7 +16,7 @@ public class Kissa extends Nisakas {
     Kissa() {
         viikset = "Suorat";
     }
-
+	// testikommentti gittia varten
     Kissa(String v) {
         viikset = v;
     }
